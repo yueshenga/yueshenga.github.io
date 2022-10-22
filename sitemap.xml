@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/10/20/hello-world/</loc>
+    <loc>http://yueshenga.github.io/2022/10/20/hello-world/</loc>
     
     <lastmod>2022-10-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/404/index.html</loc>
+    <loc>http://yueshenga.github.io/404/index.html</loc>
     
     <lastmod>2022-10-20</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/friends/index.html</loc>
+    <loc>http://yueshenga.github.io/friends/index.html</loc>
     
     <lastmod>2022-10-20</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/contact/index.html</loc>
+    <loc>http://yueshenga.github.io/contact/index.html</loc>
     
     <lastmod>2022-10-20</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://yueshenga.github.io/about/index.html</loc>
     
     <lastmod>2022-10-20</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://yueshenga.github.io/tags/index.html</loc>
     
     <lastmod>2022-10-20</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://yueshenga.github.io/categories/index.html</loc>
     
     <lastmod>2022-10-20</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://yueshenga.github.io/</loc>
     <lastmod>2022-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
