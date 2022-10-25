@@ -4,7 +4,25 @@
   <url>
     <loc>http://yueshenga.github.io/manifest.json</loc>
     
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yueshenga.github.io/2022/10/25/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF/</loc>
+    
+    <lastmod>2022-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yueshenga.github.io/2022/10/25/%E7%94%9F%E6%B4%BB/first%20article/</loc>
+    
+    <lastmod>2022-10-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,11 +94,18 @@
 
   <url>
     <loc>http://yueshenga.github.io/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://yueshenga.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   

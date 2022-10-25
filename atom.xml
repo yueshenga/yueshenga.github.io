@@ -6,7 +6,7 @@
   <link href="http://yueshenga.github.io/atom.xml" rel="self"/>
   
   <link href="http://yueshenga.github.io/"/>
-  <updated>2022-10-21T07:41:30.332Z</updated>
+  <updated>2022-10-25T02:46:56.179Z</updated>
   <id>http://yueshenga.github.io/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>技术</title>
+    <link href="http://yueshenga.github.io/2022/10/25/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF/"/>
+    <id>http://yueshenga.github.io/2022/10/25/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF/</id>
+    <published>2022-10-25T02:46:55.000Z</published>
+    <updated>2022-10-25T02:46:56.179Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://yueshenga.github.io/2022/10/25/%E7%94%9F%E6%B4%BB/first%20article/"/>
+    <id>http://yueshenga.github.io/2022/10/25/%E7%94%9F%E6%B4%BB/first%20article/</id>
+    <published>2022-10-25T01:41:25.000Z</published>
+    <updated>2022-10-25T01:56:55.161Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;文章标题&quot;&gt;&lt;a href=&quot;#文章标题&quot; class=&quot;headerlink&quot; title=&quot;文章标题&quot;&gt;&lt;/a&gt;文章标题&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;后来烟雨落盛京，一人撑伞两人行。&lt;br&gt;  初见乍惊欢，久处仍砰然。&lt;br&gt; </summary>
+        
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://yueshenga.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
